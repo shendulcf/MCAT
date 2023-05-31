@@ -57,7 +57,7 @@ DATA_ROOT_DIR/
         ├── slide_2.pt
         └── ...
     └──TCGA_LUAD/
-        ├── slide_1.ptd
+        ├── slide_1.pt
         ├── slide_2.pt
         └── ...
     └──TCGA_UCEC/
